@@ -1,4 +1,4 @@
-/* @theme book */
+/* @theme book_local */
 @import 'gaia';
 
 section {
@@ -59,6 +59,11 @@ section strong{
 
 section em{
     background:linear-gradient(transparent 60%, yellow 60%);
+}
+
+section pre{
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 /* title page */
