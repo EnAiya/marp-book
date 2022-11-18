@@ -63,7 +63,7 @@ section pre{
 
 section table{
     margin: 2% auto;
-    font-size: 130%;
+    font-size: 120%;
 }
 
 /* title page */
@@ -74,7 +74,7 @@ section.title{
 section.title h1{
     margin: 40% -11%;
     font-size: 220%;
-    text-align: center;
+    border-bottom: 0;
 }
 
 /* tobira page */
