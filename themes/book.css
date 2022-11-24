@@ -1,6 +1,9 @@
 /* @theme book */
 @import 'gaia';
 
+
+
+
 section {
     background-color: #fff;
     color: #000;
@@ -30,7 +33,7 @@ footer{
 
 section h1{
     margin-left: -5%;
-    margin-right: -10%;
+    margin-right: -11%;
     border-bottom: 15px double #4CB9F6;
 }
 
@@ -57,9 +60,9 @@ section em{
 }
 
 section pre{
-
     font-size:130%;
 }
+
 
 section table{
     margin: 2% auto;
